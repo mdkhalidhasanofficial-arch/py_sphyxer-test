@@ -1,9 +1,0 @@
-
-matplotlib
-numpy
-pandas
-pmdarima
-PyYAML
-sphinx
-statsmodel
-yahoofinancials
